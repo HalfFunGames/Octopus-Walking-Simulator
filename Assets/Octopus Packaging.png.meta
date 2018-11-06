@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 98a2a9e3f40b09445a076d985f786b64
+timeCreated: 1527242891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Octopus Packaging_0
+    21300002: Octopus Packaging_1
+    21300004: Octopus Packaging_2
+    21300006: Octopus Packaging_3
+    21300008: Octopus Packaging_4
+    21300010: Octopus Packaging_5
+    21300012: Octopus Packaging_6
+    21300014: Octopus Packaging_7
+    21300016: Octopus Packaging_8
+    21300018: Octopus Packaging_9
+    21300020: Octopus Packaging_10
+    21300022: Octopus Packaging_11
+    21300024: Octopus Packaging_12
+    21300026: Octopus Packaging_13
+    21300028: Octopus Packaging_14
+    21300030: Octopus Packaging_15
+    21300032: Octopus Packaging_16
+    21300034: Octopus Packaging_17
+    21300036: Octopus Packaging_18
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Octopus Packaging_0
+      rect:
+        serializedVersion: 2
+        x: 55.18849
+        y: 25.08378
+        width: 157.40186
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.4943494, y: 0.5000443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 654
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_2
+      rect:
+        serializedVersion: 2
+        x: 237.48761
+        y: 25.599142
+        width: 157.40186
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.49562562, y: 0.49952412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_3
+      rect:
+        serializedVersion: 2
+        x: 397.69696
+        y: 25.08378
+        width: 160.88379
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.49602926, y: 0.5000443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 654
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_5
+      rect:
+        serializedVersion: 2
+        x: 592.70544
+        y: 25.794024
+        width: 158.5625
+        height: 990.7447
+      alignment: 9
+      pivot: {x: 0.50323725, y: 0.4993274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 654
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_7
+      rect:
+        serializedVersion: 2
+        x: 790.6996
+        y: 25.599142
+        width: 157.40186
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.50063205, y: 0.49952412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_8
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 654
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_9
+      rect:
+        serializedVersion: 2
+        x: 977.25543
+        y: 25.599142
+        width: 158.56256
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.49976847, y: 0.49952412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_10
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 654
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_11
+      rect:
+        serializedVersion: 2
+        x: 1161.6145
+        y: 25.599142
+        width: 157.40186
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.49481946, y: 0.49952412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_12
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 654
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_13
+      rect:
+        serializedVersion: 2
+        x: 1380.8333
+        y: 25.599142
+        width: 158.5625
+        height: 990.7446
+      alignment: 9
+      pivot: {x: 0.4898179, y: 0.49952412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_14
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 654
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_15
+      rect:
+        serializedVersion: 2
+        x: 1835.625
+        y: 318.02908
+        width: 488.18555
+        height: 628.62354
+      alignment: 9
+      pivot: {x: 0.4995539, y: 0.49945778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_16
+      rect:
+        serializedVersion: 2
+        x: 1650.6621
+        y: 89.584724
+        width: 93.56641
+        height: 182.93607
+      alignment: 9
+      pivot: {x: 0.49523935, y: 0.49971163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_17
+      rect:
+        serializedVersion: 2
+        x: 1783.0725
+        y: 103.448784
+        width: 90.23926
+        height: 156.0557
+      alignment: 9
+      pivot: {x: 0.4867878, y: 0.4905377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Octopus Packaging_18
+      rect:
+        serializedVersion: 2
+        x: 1966.7079
+        y: 89.334564
+        width: 283.91223
+        height: 152.75928
+      alignment: 9
+      pivot: {x: 0.49590012, y: 0.49532455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 100100820584230
+  assetBundleName: 
+  assetBundleVariant: 
